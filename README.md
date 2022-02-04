@@ -73,7 +73,6 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
  opendoor --host http://www.example.com
 ```
 
-
 #### Updates
 ```
  python3 opendoor.py --update
