@@ -18,7 +18,7 @@ Software is written for informational purposes and is open source product under 
 
 ***Testing of the software on the live commercial systems and organizations is prohibited!***
 
-![Alt text](http://dl3.joxi.net/drive/2017/01/30/0001/0378/90490/90/e309742b5c.jpg "OpenDoor OWASP")
+![Alt text](/docs/images/e309742b5c.png "OpenDoor OWASP")
 
 #### Implements
 - [x] multithreading control
