@@ -183,7 +183,7 @@ Wordlist tools:
 ```
 
 #### Maintainers
-- @stanislav-web <https://github.com/stanislav-web> (Developer)
+- [@stanislav-web](https://github.com/stanislav-web) (Developer)
 
 ### Tests
 ```
